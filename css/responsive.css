@@ -14,6 +14,7 @@
   header > nav > .menu-bar {
     display: block;
     font-size: 1.4rem;
+    color: black;
   }
   header > nav > .logo-text {
     font-size: 1.2rem;
@@ -24,11 +25,10 @@
   header .nav-link .search {
     margin-right: 5px;
   }
-
   .banner-text,
   .bannerside-img {
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100%;
   }
   .banner-text > .banner-title {
     font-size: 2.25rem;
@@ -56,6 +56,7 @@
   .features-product > .container > .feature-img {
     width: 100%;
   }
+
   h3.btn-seeMore {
     right: 0;
   }

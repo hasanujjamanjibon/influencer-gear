@@ -109,15 +109,18 @@ header .nav-link .search {
   margin-left: 10px;
 }
 .bannerside-img {
-  width: 430px;
-  height: 430px;
+  width: 410px;
+  height: 410px;
   text-align: center;
-  border-radius: 50%;
-  border: 1px solid #c6c6c6;
-  background-color: #ededed;
+  background-image: url("../assets/images/Circle\ design.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 10px;
+  margin: 10px;
 }
 .bannerside-img > .camera-img {
-  width: 100%;
+  width: 105%;
 }
 /* spo0nsor section */
 .sponsor {
