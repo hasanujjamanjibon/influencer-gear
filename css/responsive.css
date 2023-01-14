@@ -18,6 +18,11 @@
   header .nav-link ul {
     display: none;
   }
+  header .nav-link .search {
+    margin-right: 5px;
+  }
+
+
   .banner-text,
   .bannerside-img {
     width: auto;
