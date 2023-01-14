@@ -27,6 +27,9 @@
     width: auto;
     height: auto;
   }
+  .banner-text > .banner-title {
+    font-size: 2.25rem;
+  }
   .banner-text {
     display: flex;
     flex-direction: column;
